@@ -1,4 +1,4 @@
-# Full scRNA-seq Breast Cancer Analysis with Scanpy
+# Full scRNA-seq Breast Cancer Analysis with Scanpy + Machine learning approach (Cell type classification and model interpretability)
 ## This project involved a comprehensive single-cell RNA sequencing (scRNA-seq) analysis of breast cancer data, utilizing a variety of tools for each stage. The analysis pipeline included quality control (QC), highly variable gene (HVG) feature selection, cell annotation, multilayer perceptron (MLP) classification, and model interpretability using SHAP.
 
 ### Tools and Methods Used:
